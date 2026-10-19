@@ -51,29 +51,16 @@ This repository hosts documentation and demonstrations. **Download the compiled 
 
 [▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.gif) · [Full-resolution original](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-motion-8x.gif)
 
-### More demos: components → assembled mechanism
-
-**Generating assembly components**
+### Mechanism in motion — continuous loop
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-parts-8x.gif" type="image/gif">
-  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-parts-8x.png" alt="Generating individual assembly components" width="960">
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-motion.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-motion.png" alt="SolidWorks mechanism motion" width="840">
 </picture>
 
-[▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-parts-8x.gif) · [Full-resolution original](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-parts-8x.gif)
+[▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-motion.gif)
 
-**Constructing the assembly**
-
-<picture>
-  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x.gif" type="image/gif">
-  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x.png" alt="Constructing the SolidWorks assembly" width="960">
-</picture>
-
-[▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x.gif) · [Full-resolution original](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-build-8x.gif)
-
-
-
-Captured in SolidWorks with OBS; played at 8× speed. The two additional demos are edited highlights with waiting periods removed. These are real sessions, including iterations and repairs—not a guarantee of one-shot success. The motion demo shows a recovered working assembly; it is not a complete interference or engineering certification.
+Real SolidWorks motion captured with OBS. This close-up starts immediately and loops continuously at original speed; waiting and dialogs are omitted. The earlier demos play at 8× speed. Real sessions may involve iterations and repairs.
 
 ## What you can do
 
