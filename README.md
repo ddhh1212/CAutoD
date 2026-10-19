@@ -26,19 +26,28 @@ This repository hosts documentation and demonstrations. **Download the compiled 
 
 ### Describe → generate
 
-<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.gif" alt="Natural-language part generation in SolidWorks" width="960" />
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.png" alt="Natural-language part generation in SolidWorks" width="960">
+</picture>
 
 [▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.gif) · [Full-resolution original](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/generation-8x.gif)
 
 ### Refine an existing part
 
-<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.gif" alt="Interactive part editing" width="960" />
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.png" alt="Interactive part editing" width="960">
+</picture>
 
 [▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.gif) · [Full-resolution original](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/interactive-editing-8x.gif)
 
 ### Build and animate an assembly
 
-<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.gif" alt="SolidWorks assembly motion" width="960" />
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.png" alt="SolidWorks assembly motion" width="960">
+</picture>
 
 [▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.gif) · [Full-resolution original](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-motion-8x.gif)
 
@@ -46,13 +55,19 @@ This repository hosts documentation and demonstrations. **Download the compiled 
 
 **Generating assembly components**
 
-<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-parts-8x.gif" alt="Generating individual assembly components" width="960" />
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-parts-8x.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-parts-8x.png" alt="Generating individual assembly components" width="960">
+</picture>
 
 [▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-parts-8x.gif) · [Full-resolution original](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-parts-8x.gif)
 
 **Constructing the assembly**
 
-<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x.gif" alt="Constructing the SolidWorks assembly" width="960" />
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x.png" alt="Constructing the SolidWorks assembly" width="960">
+</picture>
 
 [▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x.gif) · [Full-resolution original](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-build-8x.gif)
 

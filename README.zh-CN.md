@@ -26,19 +26,28 @@ CAutoD 是运行在 SolidWorks 任务窗格里的 AI CAD agent。输入文字需
 
 ### 描述需求 → 生成零件
 
-<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.gif" alt="在 SolidWorks 中通过自然语言生成零件" width="960" />
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.png" alt="在 SolidWorks 中通过自然语言生成零件" width="960">
+</picture>
 
 [▶ 单独播放动图](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.gif) · [原始清晰版](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/generation-8x.gif)
 
 ### 围绕已有零件继续修改
 
-<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.gif" alt="交互式零件修改" width="960" />
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.png" alt="交互式零件修改" width="960">
+</picture>
 
 [▶ 单独播放动图](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.gif) · [原始清晰版](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/interactive-editing-8x.gif)
 
 ### 构建装配与运动展示
 
-<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.gif" alt="SolidWorks 装配运动" width="960" />
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.png" alt="SolidWorks 装配运动" width="960">
+</picture>
 
 [▶ 单独播放动图](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.gif) · [原始清晰版](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-motion-8x.gif)
 
@@ -46,13 +55,19 @@ CAutoD 是运行在 SolidWorks 任务窗格里的 AI CAD agent。输入文字需
 
 **装配零件生成**
 
-<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-parts-8x.gif" alt="生成独立装配零件" width="960" />
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-parts-8x.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-parts-8x.png" alt="生成独立装配零件" width="960">
+</picture>
 
 [▶ 单独播放动图](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-parts-8x.gif) · [原始清晰版](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-parts-8x.gif)
 
 **总装构建过程**
 
-<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x.gif" alt="构建 SolidWorks 总装" width="960" />
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x.png" alt="构建 SolidWorks 总装" width="960">
+</picture>
 
 [▶ 单独播放动图](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x.gif) · [原始清晰版](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-build-8x.gif)
 
