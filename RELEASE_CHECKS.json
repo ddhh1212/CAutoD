@@ -1,0 +1,20 @@
+{
+  "relocated_compiled_backend_started": true,
+  "inherited_api_key_ignored": true,
+  "first_use_requires_configuration": true,
+  "unconfigured_send_blocked": true,
+  "setup_save_and_catalog": true,
+  "key_not_plaintext_on_disk_or_response": true,
+  "configured_endpoint_never_contacted": true,
+  "compiled_agent_sdk_and_resources": true,
+  "compiled_agent_tool_loop": true,
+  "relocated_native_integrity": true,
+  "compiled_native_relative_launch_and_env": true,
+  "implementation_source_files_absent": true,
+  "cross_machine_install_tested": false,
+  "all_providers_live_tested": false,
+  "python_regression_tests_passed": 21,
+  "frontend_regressions_passed": true,
+  "native_cad_rerun_for_this_package": false,
+  "known_developer_paths_and_key_pattern_scan_clean": true
+}

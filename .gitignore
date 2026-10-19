@@ -1,0 +1,9 @@
+*.zip
+*.7z
+.env*
+*.snk
+.venv/
+output/
+data/
+provider.json
+__pycache__/
