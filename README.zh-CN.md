@@ -26,28 +26,37 @@ CAutoD 是运行在 SolidWorks 任务窗格里的 AI CAD agent。输入文字需
 
 ### 描述需求 → 生成零件
 
-![在 SolidWorks 中通过自然语言生成零件](docs/images/generation-8x.gif)
+<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.gif" alt="在 SolidWorks 中通过自然语言生成零件" width="960" />
+
+[▶ 单独播放动图](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.gif) · [原始清晰版](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/generation-8x.gif)
 
 ### 围绕已有零件继续修改
 
-![交互式零件修改](docs/images/interactive-editing-8x.gif)
+<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.gif" alt="交互式零件修改" width="960" />
+
+[▶ 单独播放动图](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.gif) · [原始清晰版](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/interactive-editing-8x.gif)
 
 ### 构建装配与运动展示
 
-![SolidWorks 装配运动](docs/images/assembly-motion-8x.gif)
+<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.gif" alt="SolidWorks 装配运动" width="960" />
 
-<details>
-<summary><strong>更多演示：独立组件 → 总装机构</strong></summary>
+[▶ 单独播放动图](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.gif) · [原始清晰版](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-motion-8x.gif)
+
+### 更多演示：独立组件 → 总装机构
 
 **装配零件生成**
 
-![生成独立装配零件](docs/images/assembly-parts-8x.gif)
+<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-parts-8x.gif" alt="生成独立装配零件" width="960" />
+
+[▶ 单独播放动图](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-parts-8x.gif) · [原始清晰版](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-parts-8x.gif)
 
 **总装构建过程**
 
-![构建 SolidWorks 总装](docs/images/assembly-build-8x.gif)
+<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x.gif" alt="构建 SolidWorks 总装" width="960" />
 
-</details>
+[▶ 单独播放动图](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x.gif) · [原始清晰版](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-build-8x.gif)
+
+
 
 演示均来自 OBS 录制的真实 SolidWorks 操作，以 8 倍速播放。新增两张是去除等待片段后的过程剪辑。真实会话包含迭代与修复，不代表所有任务都能一次成功；运动演示来自恢复后的可联动版本，不等于完成了全部干涉检查或工程认证。
 

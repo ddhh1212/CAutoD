@@ -26,28 +26,37 @@ This repository hosts documentation and demonstrations. **Download the compiled 
 
 ### Describe → generate
 
-![Natural-language part generation in SolidWorks](docs/images/generation-8x.gif)
+<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.gif" alt="Natural-language part generation in SolidWorks" width="960" />
+
+[▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.gif) · [Full-resolution original](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/generation-8x.gif)
 
 ### Refine an existing part
 
-![Interactive part editing](docs/images/interactive-editing-8x.gif)
+<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.gif" alt="Interactive part editing" width="960" />
+
+[▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.gif) · [Full-resolution original](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/interactive-editing-8x.gif)
 
 ### Build and animate an assembly
 
-![SolidWorks assembly motion](docs/images/assembly-motion-8x.gif)
+<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.gif" alt="SolidWorks assembly motion" width="960" />
 
-<details>
-<summary><strong>More demos: individual components → assembled mechanism</strong></summary>
+[▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.gif) · [Full-resolution original](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-motion-8x.gif)
+
+### More demos: components → assembled mechanism
 
 **Generating assembly components**
 
-![Generating individual assembly components](docs/images/assembly-parts-8x.gif)
+<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-parts-8x.gif" alt="Generating individual assembly components" width="960" />
+
+[▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-parts-8x.gif) · [Full-resolution original](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-parts-8x.gif)
 
 **Constructing the assembly**
 
-![Constructing the SolidWorks assembly](docs/images/assembly-build-8x.gif)
+<img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x.gif" alt="Constructing the SolidWorks assembly" width="960" />
 
-</details>
+[▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x.gif) · [Full-resolution original](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-build-8x.gif)
+
+
 
 Captured in SolidWorks with OBS; played at 8× speed. The two additional demos are edited highlights with waiting periods removed. These are real sessions, including iterations and repairs—not a guarantee of one-shot success. The motion demo shows a recovered working assembly; it is not a complete interference or engineering certification.
 
