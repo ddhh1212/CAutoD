@@ -27,7 +27,6 @@ CAutoD 是运行在 SolidWorks 任务窗格里的 AI CAD agent。输入文字需
 ### 描述需求 → 生成零件
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.gif" type="image/gif">
   <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.png" alt="在 SolidWorks 中通过自然语言生成零件" width="960">
 </picture>
 
@@ -36,7 +35,6 @@ CAutoD 是运行在 SolidWorks 任务窗格里的 AI CAD agent。输入文字需
 ### 围绕已有零件继续修改
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.gif" type="image/gif">
   <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.png" alt="交互式零件修改" width="960">
 </picture>
 
@@ -45,7 +43,6 @@ CAutoD 是运行在 SolidWorks 任务窗格里的 AI CAD agent。输入文字需
 ### 构建装配与运动展示
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.gif" type="image/gif">
   <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.png" alt="SolidWorks 装配运动" width="960">
 </picture>
 
@@ -54,13 +51,13 @@ CAutoD 是运行在 SolidWorks 任务窗格里的 AI CAD agent。输入文字需
 ### 机构运动 · 连续循环
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-motion.gif" type="image/gif">
-  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-motion.png" alt="SolidWorks mechanism motion" width="840">
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-loop.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-loop.png" alt="SolidWorks mechanism motion" width="600">
 </picture>
 
-[▶ 单独播放动图](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-motion.gif)
+[▶ 单独播放动图](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-loop.gif)
 
-OBS 实录的 SolidWorks 机构运动。此特写以原速直接开始、无限循环，省去等待与弹窗；前面的演示为 8 倍速。真实会话可能包含迭代与修复。
+SolidWorks 实录画面，去除重复等待帧后，采用正放／倒放衔接的往返循环剪辑。首页仅自动播放这张轻量预览，其他演示通过上方链接观看。[观看原速高清 MP4](docs/images/green-assembly-original.mp4)。原录像的姿态更新是离散的，此剪辑没有合成中间运动几何。
 
 ## 能做什么
 

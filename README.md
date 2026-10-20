@@ -27,7 +27,6 @@ This repository hosts documentation and demonstrations. **Download the compiled 
 ### Describe → generate
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.gif" type="image/gif">
   <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.png" alt="Natural-language part generation in SolidWorks" width="960">
 </picture>
 
@@ -36,7 +35,6 @@ This repository hosts documentation and demonstrations. **Download the compiled 
 ### Refine an existing part
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.gif" type="image/gif">
   <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.png" alt="Interactive part editing" width="960">
 </picture>
 
@@ -45,7 +43,6 @@ This repository hosts documentation and demonstrations. **Download the compiled 
 ### Build and animate an assembly
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.gif" type="image/gif">
   <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.png" alt="SolidWorks assembly motion" width="960">
 </picture>
 
@@ -54,13 +51,13 @@ This repository hosts documentation and demonstrations. **Download the compiled 
 ### Mechanism in motion — continuous loop
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-motion.gif" type="image/gif">
-  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-motion.png" alt="SolidWorks mechanism motion" width="840">
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-loop.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-loop.png" alt="SolidWorks mechanism motion" width="600">
 </picture>
 
-[▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-motion.gif)
+[▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-loop.gif)
 
-Real SolidWorks motion captured with OBS. This close-up starts immediately and loops continuously at original speed; waiting and dialogs are omitted. The earlier demos play at 8× speed. Real sessions may involve iterations and repairs.
+Real SolidWorks footage, edited into a forward/reverse preview loop with repeated waiting frames removed. Only this lightweight preview autoplays; click the links above to watch the other demos. [Watch the original-speed HD MP4](docs/images/green-assembly-original.mp4). The source updates poses in steps; this edit does not synthesize intermediate geometry.
 
 ## What you can do
 
