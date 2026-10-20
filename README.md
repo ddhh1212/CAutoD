@@ -24,40 +24,54 @@ This repository hosts documentation and demonstrations. **Download the compiled 
 
 ## See it in action
 
+All five previews autoplay and loop. Lightweight 480 px previews prioritize loading and playback; full-resolution versions remain available below.
+
 ### Describe → generate
 
 <picture>
-  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.png" alt="Natural-language part generation in SolidWorks" width="960">
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x-lite.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x-lite.png" alt="Describe → generate" width="640">
 </picture>
 
-[▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.gif) · [Full-resolution original](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/generation-8x.gif)
+[Full-resolution recording](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/generation-8x.gif)
 
 ### Refine an existing part
 
 <picture>
-  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.png" alt="Interactive part editing" width="960">
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x-lite.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x-lite.png" alt="Refine an existing part" width="640">
 </picture>
 
-[▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.gif) · [Full-resolution original](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/interactive-editing-8x.gif)
+[Full-resolution recording](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/interactive-editing-8x.gif)
 
-### Build and animate an assembly
+### Assemble the components
 
 <picture>
-  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.png" alt="SolidWorks assembly motion" width="960">
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x-lite.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x-lite.png" alt="Assemble the components" width="640">
 </picture>
 
-[▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.gif) · [Full-resolution original](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-motion-8x.gif)
+[Full-resolution recording](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-build-8x.gif)
+
+### Assembly motion
+
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x-lite.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x-lite.png" alt="Assembly motion" width="640">
+</picture>
+
+[Full-resolution recording](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-motion-8x.gif)
 
 ### Mechanism in motion — continuous loop
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-loop.gif" type="image/gif">
-  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-loop.png" alt="SolidWorks mechanism motion" width="600">
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-loop-lite.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-loop-lite.png" alt="Mechanism in motion — continuous loop" width="640">
 </picture>
 
-[▶ Open animation directly](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-loop.gif)
+[Full-resolution recording](docs/images/green-assembly-original.mp4)
 
-Real SolidWorks footage, edited into a forward/reverse preview loop with repeated waiting frames removed. Only this lightweight preview autoplays; click the links above to watch the other demos. [Watch the original-speed HD MP4](docs/images/green-assembly-original.mp4). The source updates poses in steps; this edit does not synthesize intermediate geometry.
+Captured in SolidWorks with OBS. Process demos are accelerated; the last preview removes repeated frames and uses forward/reverse editing for a continuous loop. Discrete pose updates in the original recording remain visible.
 
 ## What you can do
 

@@ -24,40 +24,54 @@ CAutoD 是运行在 SolidWorks 任务窗格里的 AI CAD agent。输入文字需
 
 ## 看看它如何工作
 
+五张轻量动图均自动循环播放。首页采用 480 像素低清预览，优先减少加载与播放负担；下方保留高清版入口。
+
 ### 描述需求 → 生成零件
 
 <picture>
-  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.png" alt="在 SolidWorks 中通过自然语言生成零件" width="960">
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x-lite.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x-lite.png" alt="描述需求 → 生成零件" width="640">
 </picture>
 
-[▶ 单独播放动图](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/generation-8x.gif) · [原始清晰版](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/generation-8x.gif)
+[观看高清版本](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/generation-8x.gif)
 
 ### 围绕已有零件继续修改
 
 <picture>
-  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.png" alt="交互式零件修改" width="960">
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x-lite.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x-lite.png" alt="围绕已有零件继续修改" width="640">
 </picture>
 
-[▶ 单独播放动图](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/interactive-editing-8x.gif) · [原始清晰版](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/interactive-editing-8x.gif)
+[观看高清版本](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/interactive-editing-8x.gif)
 
-### 构建装配与运动展示
+### 将零件组装成机构
 
 <picture>
-  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.png" alt="SolidWorks 装配运动" width="960">
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x-lite.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-build-8x-lite.png" alt="将零件组装成机构" width="640">
 </picture>
 
-[▶ 单独播放动图](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x.gif) · [原始清晰版](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-motion-8x.gif)
+[观看高清版本](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-build-8x.gif)
+
+### 装配运动展示
+
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x-lite.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/assembly-motion-8x-lite.png" alt="装配运动展示" width="640">
+</picture>
+
+[观看高清版本](https://github.com/ddhh1212/CAutoD/blob/v1.0.0/docs/images/assembly-motion-8x.gif)
 
 ### 机构运动 · 连续循环
 
 <picture>
-  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-loop.gif" type="image/gif">
-  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-loop.png" alt="SolidWorks mechanism motion" width="600">
+  <source srcset="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-loop-lite.gif" type="image/gif">
+  <img src="https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-loop-lite.png" alt="机构运动 · 连续循环" width="640">
 </picture>
 
-[▶ 单独播放动图](https://raw.githubusercontent.com/ddhh1212/CAutoD/main/docs/images/green-assembly-loop.gif)
+[观看高清版本](docs/images/green-assembly-original.mp4)
 
-SolidWorks 实录画面，去除重复等待帧后，采用正放／倒放衔接的往返循环剪辑。首页仅自动播放这张轻量预览，其他演示通过上方链接观看。[观看原速高清 MP4](docs/images/green-assembly-original.mp4)。原录像的姿态更新是离散的，此剪辑没有合成中间运动几何。
+来自 OBS 录制的真实 SolidWorks 操作。过程演示采用加速播放；最后一张移除了重复帧，以正放／倒放衔接循环。原录像中的离散姿态更新仍会可见。
 
 ## 能做什么
 
